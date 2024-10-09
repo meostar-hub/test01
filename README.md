@@ -74,7 +74,7 @@ ImageButton.BorderSizePixel = 0
 ImageButton.Position = UDim2.new(0.120833337, 0, 0.0952890813, 0)
 ImageButton.Size = UDim2.new(0, 50, 0, 55)
 ImageButton.Draggable = true
-ImageButton.Image = "http://www.roblox.com/asset/?id=18285114199"
+ImageButton.Image = "http://www.roblox.com/asset/?id=74927625939844"
 
 UICorner.CornerRadius = UDim.new(0, 10) 
 UICorner.Parent = ImageButton
@@ -2956,7 +2956,7 @@ local Toggle = Tabs.item:AddToggle("Auto Ectoplasm", {
 	Default = false
 })
 Toggle:OnChanged(function(KiemNhuLon)
-	NgayXuaNgayXuaCoNguoiTenLaNightMareRobloxTraNoiTiengTiktokNoiYoutubeCungNoiHayKiemMotNguoiDangkyDi
+	NgayXuaNgayXuaCoNguoiTenLaNightMareRobloxTraNoiTiengTiktokNoiYoutubeCungNoiHayKiemMotNguoiDangkyDi = KiemNhuLon
 end)      
 
 spawn(function()
